@@ -1,0 +1,6 @@
+{
+  "name": "AglivHost",
+  "description": "A private, high-fidelity image hosting system themed in Professional Polish featuring local folder organization, list and grid view searching, and dynamic local storage backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
